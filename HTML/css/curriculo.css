@@ -1,0 +1,23 @@
+#titulo-cv{
+    font-size: 50px;
+    font-style: bold;
+    border-color: black;
+}
+
+#foto-cv{
+    border-radius: 50%;
+    border-style: dotted;
+}
+
+*{
+    background-color: rgb(173, 196, 246);
+}
+
+hr{
+    color: rgb(255, 255, 255);
+    border-color: rgb(159, 155, 155);
+}
+
+a{
+    font-style: none;
+}
